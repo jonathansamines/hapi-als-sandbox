@@ -1,0 +1,23 @@
+{
+  "name": "hapi-als-sandbox",
+  "version": "1.0.0",
+  "description": "A few tests around the hapi framework the use of async local storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathansamines/hapi-als-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathansamines/hapi-als-sandbox/issues"
+  },
+  "homepage": "https://github.com/jonathansamines/hapi-als-sandbox#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1"
+  }
+}
